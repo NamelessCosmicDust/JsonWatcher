@@ -4,6 +4,6 @@ I was testing data save/load into a JSON file in a project but found re-opening 
 It can read JSON and TXT files.
 
 Download:  
-  the source code and compile it to suit your needs.  
-  or  
-  the JsonWatcher.zip file in the release section for a self-contained Windows x64 compiled version.
+>the source code and compile it to suit your needs.  
+>or  
+>the JsonWatcher.zip file in the release section for a self-contained Windows x64 compiled version.
